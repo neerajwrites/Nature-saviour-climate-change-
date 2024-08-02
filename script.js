@@ -12,3 +12,10 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
         });
     });
 });
+function learnMore() {
+    alert("Learn more about our mission and goals!");
+  }
+  
+  function joinTheMovement() {
+    alert("Thank you for joining the movement! We'll be in touch soon.");
+  }
